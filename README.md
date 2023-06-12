@@ -1,9 +1,18 @@
 # sqlalchemy-challenge
 
-# In this assignment, I will use the provided files (climate_starter.ipynb and hawaii.sqlite) to complete the climate analysis and data exploration.
+Part 1: Analyse and Explore the Climate Data
 
-# Use the SQLAlchemy create_engine() function to connect to the SQLite database.
+#Reflect Tables into SQLAlchemy ORM
+#Exploratory Precipitation
+#Exploratory Station Analysis
 
-# Use the SQLAlchemy automap_base() function to reflect the tables into classes, and then save references to the classes named station and measurement.
+Part 2: Design Your Climate App
 
-# Link Python to the database by creating a SQLAlchemy session.
+#Create an instance of Flask
+#Define the homepage route
+#Define the precipitation route
+#Define the stations route
+#Define the temperature observations route
+#Define the start and start-end date route
+  #(Query the minimum, average, and maximum temperature based on the specified date range)
+
